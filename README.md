@@ -2,7 +2,6 @@
 Codewars/Dead Ants
 http://www.codewars.com/kata/dead-ants
 
-------------
 An orderly trail of ants is marching across the park picnic area.
 
 It looks something like this:
